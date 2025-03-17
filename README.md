@@ -1,5 +1,6 @@
-# medical-AI-FOSS-hackathon
-An open-source initiative focused on developing AI-driven healthcare solutions. Built during a hackathon, this project leverages machine learning, medical data analysis, and automation to enhance patient care and diagnostics. Contributions welcome!
+# AI-MedX-Hackathon-by-Tech-Titans
+
+An open-source initiative focused on developing AI-driven healthcare solutions.
 
 Our focus is on using deep learning, and medical data analysis to enhance diagnostics, predictive analytics, patient monitoring, and decision support systems. By integrating AI with healthcare, we aim to improve efficiency, accuracy, and accessibility in medical services.
 
